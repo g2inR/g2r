@@ -2,7 +2,7 @@ Experiments with R and g2 - this is nowhere near a full-featured `htmlwidget`.  
 
 # g2
 
-The new [g2](https://github.com/antvis/g2) is just too good to not integrate into `R`.  Leland Wilkinson's inspired both `ggplot2` and `g2` so hopefully many of the concepts will translate nicely.
+The new [g2](https://github.com/antvis/g2) is just too good to not integrate into `R`.  Leland Wilkinson's Grammar of Graphics inspired both `ggplot2` and `g2` so hopefully many of the concepts will translate nicely.
 
 ### Facets
 
