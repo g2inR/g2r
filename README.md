@@ -1,4 +1,4 @@
-Experiments with R and g2 - this is nowhere near a full-featured `htmlwidget`.  I'll start with hacks and sketches to understand the `g2` API and hopefully determine the best way to create an `R` API for creation.
+Experiments with R and g2 - this is nowhere near a full-featured `htmlwidget`.  I'll start with hacks and sketches to understand the `g2` API and hopefully determine the best way to structure an `R` API for chart creation.
 
 # g2
 
