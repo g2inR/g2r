@@ -1,5 +1,7 @@
 Experiments with R and g2 - this is nowhere near a full-featured `htmlwidget`.  I'll start with hacks and sketches to understand the `g2` API and hopefully determine the best way to structure an `R` API for chart creation.
 
+For now, code, discussion, and experiments are all in [issues](https://github.com/timelyportfolio/g2r/issues).  Please participate and share your thoughts, ideas, desires.
+
 # g2
 
 The new [g2](https://github.com/antvis/g2) is just too good to not integrate into `R`.  Leland Wilkinson's Grammar of Graphics inspired both `ggplot2` and `g2` so hopefully many of the concepts will translate nicely.
