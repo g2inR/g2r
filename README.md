@@ -9,3 +9,7 @@ The new [g2](https://github.com/antvis/g2) is just too good to not integrate int
 ### Facets
 
 Good facetting is what really separates `g2` from nearly all other `JavaScript` visualization libraries.  Definitely have a look at the facetting [examples](https://antv.alipay.com/zh-cn/g2/3.x/demo/index.html#_%E5%88%86%E9%9D%A2).
+
+# Code of Conduct
+
+This should be a friendly welcoming place.  Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
