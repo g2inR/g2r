@@ -1,0 +1,6 @@
+# add with dependencies in createWidget for now
+#dependencies:
+#  - name: g2
+#    version: 3.0.4
+#    src: www/g2/lib
+#    script: g2.js
