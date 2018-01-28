@@ -43,7 +43,8 @@ g2_chart <- function(
     data = data,
     padding = padding,
     forceFit = forceFit,
-    animate = animate
+    animate = animate,
+    options = options
   )
   
   # remove NULL
